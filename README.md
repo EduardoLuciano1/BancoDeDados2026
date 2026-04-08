@@ -7,7 +7,7 @@
 
 ---
 
-conceitual imobiliária:
+conceitual imobiliária: está no repositório (foi feito na máquina)
 
 ---
 
