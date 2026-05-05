@@ -36,9 +36,11 @@ lógico veterinária: https://app.brmodeloweb.com/#!/publicview/69d6b469de33eeb5
 ---
 
 conceitual mecânica: https://app.brmodeloweb.com/#!/publicview/69fa18e15f82e7fa6b39bde6
+
 lógico mecânica: https://app.brmodeloweb.com/#!/publicview/69fa18fb5f82e7fa6b39bdfe
 
 ---
 
 conceitual tatuagem: https://app.brmodeloweb.com/#!/publicview/69fa18f25f82e7fa6b39bdf3
+
 lógico tatuagem: https://app.brmodeloweb.com/#!/publicview/69fa18f25f82e7fa6b39bdf3
