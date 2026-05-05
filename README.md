@@ -32,3 +32,13 @@ lógico filme: https://app.brmodeloweb.com/#!/publicview/69d6b444de33eeb5ddb5971
 conceitual veterinária: https://app.brmodeloweb.com/#!/publicview/69d6b45ade33eeb5ddb59725
 
 lógico veterinária: https://app.brmodeloweb.com/#!/publicview/69d6b469de33eeb5ddb5974b
+
+---
+
+conceitual mecânica: https://app.brmodeloweb.com/#!/publicview/69fa18e15f82e7fa6b39bde6
+lógico mecânica: https://app.brmodeloweb.com/#!/publicview/69fa18fb5f82e7fa6b39bdfe
+
+---
+
+conceitual tatuagem: https://app.brmodeloweb.com/#!/publicview/69fa18f25f82e7fa6b39bdf3
+lógico tatuagem: https://app.brmodeloweb.com/#!/publicview/69fa18f25f82e7fa6b39bdf3
