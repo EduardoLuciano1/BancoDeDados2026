@@ -1,6 +1,6 @@
 CREATE TABLE senioridade 
 ( 
- idsenioridade INT PRIMARY KEY auto_increment,  
+ codsenioridade INT PRIMARY KEY auto_increment,  
  nome varchar(100) not null  
 ); 
 
