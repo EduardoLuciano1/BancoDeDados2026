@@ -22,8 +22,8 @@ CREATE TABLE tatuador
  cpf varchar(100) unique not null,  
  nometatuador varchar(100) not null,  
  telefone varchar(100) not null,  
- idsenioridade INT not null,  
- FOREIGN KEY(idsenioridade) REFERENCES senioridade (idsenioridade)
+ codsenioridade INT not null,  
+ FOREIGN KEY(idsenioridade) REFERENCES senioridade (codsenioridade)
 ); 
 
 CREATE TABLE agendamento 
