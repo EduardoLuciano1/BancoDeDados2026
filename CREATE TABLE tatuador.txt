@@ -7,7 +7,7 @@ CREATE TABLE senioridade
 CREATE TABLE cliente 
 ( 
  idcliente INT PRIMARY KEY auto_increment,  
- estado varchar(100) not null,  
+ uf varchar(100) not null,  
  cidade varchar(100) not null,  
  datacadastro date not null,  
  cpf varchar(100) unique not null,  
